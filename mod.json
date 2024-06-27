@@ -1,0 +1,14 @@
+{
+	"namespace": "Reliquary",
+	"displayName": "Reliquary",
+	"version": "0.1.0",
+	"synchronyVersion": "4.1.0",
+	"description": "No description given.",
+	"author": "Trixelized",
+	"dependencies": {},
+	"api": {"scriptPath":""},
+	"icon": "ReliquaryIcon.png",
+	"banner": "ReliquaryBanner.png",
+	"tags": [],
+	"name": "Reliquary"
+}
