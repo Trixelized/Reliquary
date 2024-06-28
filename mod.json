@@ -3,7 +3,7 @@
 	"displayName": "Reliquary",
 	"version": "0.1.0",
 	"synchronyVersion": "4.1.0",
-	"description": "No description given.",
+	"description": "A light content mod aiming to fit into vanilla nicely.",
 	"author": "Trixelized",
 	"dependencies": {},
 	"api": {"scriptPath":""},
